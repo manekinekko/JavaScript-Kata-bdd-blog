@@ -73,7 +73,7 @@ __3) Project initialization:__
 * Open the file test/spec/blog.spec.js with Sublime Text 2,
 * Update this file content and write your specs.
 
-LINCESE
+LINCENSE
 =======
 JavaScript Kata Copyright 2012, Wassim Chegham Licensed under the MIT or GPL Version 2 licenses.
 
