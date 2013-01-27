@@ -73,7 +73,7 @@ __3) Project initialization:__
 * Open the file __test/spec/blog.spec.js__ with Sublime Text 2,
 * Update this file content and write your specs.
 
-(TODO)
+(TODO: add some examples)
 
 
 LINCENSE
