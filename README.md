@@ -42,7 +42,7 @@ In this Kata we’re using Sublime Text 2 (http://www.sublimetext.com/), “a so
 We are also using a Yeoman (http://yeoman.io/) which consists of “a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web app”.
 
 
-And for the test tools, we are using a JavaScript framework named Mocha (http://visionmedia.github.com/mocha/) which is basically a test runner; in other words, this will allows us to run and execute our tests. These tests will be written using ChaiJS (http://chaijs.com/), a BDD/TDD assertion library for node and the browser that paires delightfully with Mocha.
+And for the test tools, we are using a JavaScript framework named Mocha (http://mochajs.org/) which is basically a test runner; in other words, this will allows us to run and execute our tests. These tests will be written using ChaiJS (http://chaijs.com/), a BDD/TDD assertion library for node and the browser that paires delightfully with Mocha.
 
 __3) Project initialization:__
 
